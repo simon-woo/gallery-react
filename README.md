@@ -5,7 +5,7 @@ create a photo gallery based on react.
 
 ### 如何运行
 
-**安装依赖
+**安装依赖**
 ```shell
 npm install
 
